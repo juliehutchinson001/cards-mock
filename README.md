@@ -5,7 +5,10 @@ Using the function getData() as your "api call", you will build out the mockups 
 For this project, I utilized Javascript to complete the mocks of the cards.
 >- Classes were added following BEM convension.
 >- A loader was added to simulate a fake fetch request to the API.
->- Add responsiveness for mobile viewport
+>- Slight tilting when hovering on the cart.
+>- Add responsiveness for mobile viewport.
+>- Documentation of functions was included.
+
 
             _--^^^#####//      \\#####^^^--_
          _-^##########// (    ) \\##########^-_
